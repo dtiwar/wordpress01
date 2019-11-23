@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', "sentia_user" );
+define( 'DB_USER', "sentia_user@sentiamysqlserver" );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Welkome@1234' );
+define( 'DB_PASSWORD', 'Welkome@123' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'sentiamysqlserver.mysql.database.azure.com' );
