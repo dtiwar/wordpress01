@@ -12,7 +12,7 @@ variables:
   # Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: '2423a03b-1531-4a8a-bbf4-5efd9b222f53'
   imageRepository: 'dtiwarwordpress'
-  containerRegistry: 'sentiaacr.azurecr.io'
+  containerRegistry: 'sentiacr.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
   tag: '$(Build.BuildId)'
   
