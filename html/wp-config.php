@@ -29,7 +29,7 @@ define( 'DB_USER', 'sentia_user@sentiamysqlserver' );
 define( 'DB_PASSWORD', 'Welkome@123' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'sentiamysqlserver.mysql.database.azure.com:3306' );
+define( 'DB_HOST', 'sentiamysqlserver.mysql.database.azure.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
